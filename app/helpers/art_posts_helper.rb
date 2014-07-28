@@ -1,0 +1,2 @@
+module ArtPostsHelper
+end
